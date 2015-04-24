@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# written in very little time just for doing the job.
+# Please do not see this as an example of "good programming"
+
 from sys import argv
 from lxml import *
 from lxml import etree
